@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
+    "main.js": "/react-gh-pages/static/js/main.7e9f2a4a.js",
+    "static/js/787.5d9363f9.chunk.js": "/react-gh-pages/static/js/787.5d9363f9.chunk.js",
+    "static/media/GymWallpaper.jpeg": "/react-gh-pages/static/media/GymWallpaper.652b23d2310c31a27f03.jpeg",
+    "static/media/googleMap.png": "/react-gh-pages/static/media/googleMap.068e7102052ccec5c771.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
+    "main.7e9f2a4a.js.map": "/react-gh-pages/static/js/main.7e9f2a4a.js.map",
+    "787.5d9363f9.chunk.js.map": "/react-gh-pages/static/js/787.5d9363f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7e9f2a4a.js"
+  ]
+}
